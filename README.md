@@ -14,7 +14,7 @@ Desenvolvo sites, e-commerces e painéis de gestão para pequenos negócios (bar
 
 ### Stack
 
-`React` `Vite` `TypeScript` `Tailwind`  `JavaScript` `Python` `Supabase` `Vercel`
+`JavaScript` `Python` `React` `Vite`   `Supabase` `Vercel`
 
 ### Projetos em destaque
 
