@@ -10,7 +10,7 @@
 
 ### Sobre
 
-Desenvolvo sites, e-commerces e painéis de gestão para pequenos negócios (barbearias, confeitarias, prestadores de serviço) que ainda não têm presença digital — do design ao deploy. Também dirijo a **VR Football Design**, estúdio de conteúdo visual esportivo.
+Desenvolvo sites, e-commerces e painéis de gestão para pequenos negócios (barbearias, confeitarias, prestadores de serviço) que ainda não têm presença digital — do design ao deploy.
 
 ### Stack
 
