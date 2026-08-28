@@ -22,7 +22,7 @@ Desenvolvo sites, e-commerces e painéis de gestão para pequenos negócios (bar
 |---|---|---|
 | **[B_donuts](https://github.com/ViniciusRamos30/B_donuts)** | Redesign de e-commerce para confeitaria artesanal real, com checkout via WhatsApp | JavaScript |
 | **[Prompts_maneger](https://github.com/ViniciusRamos30/Prompts_maneger)** | Ferramenta para organizar, salvar e categorizar prompts de IA | JavaScript |
-| **[Olimpíada de Inteligência Artificial Aplicada (OIAA)](https://github.com/ViniciusRamos30/Olimp-ada-De-Inteligência-Artificial-Aplicada)** | Projeto da Olimpíada de Inteligência Artificial Aplicada | Python |
+| **[Olimpíada de Inteligência Artificial Aplicada (OIAA)](https://github.com/ViniciusRamos30/Olimp-ada-De-Intelig-ncia-Artificial-Aplicada.git)** | Projeto da Olimpíada de Inteligência Artificial Aplicada | Python |
 | **[BARBER_X](https://barberx20.netlify.app/)** | E-commerce de barbearia com catálogo, carrinho e checkout via WhatsApp | HTML/CSS/JS |
 
 ### Contato
