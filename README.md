@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://www.instagram.com/viniciusramoselias" target="_blank"><img src="https://img.shields.io/badge/Instagram-@viniciusramoselias-E4405F?style=flat&logo=instagram&logoColor=white"></a>
-  <a href="https://www.instagram.com/vrfootballdesign" target="_blank"><img src="https://img.shields.io/badge/Instagram-VR_Football_Design-E4405F?style=flat&logo=instagram&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Base-Distrito_Federal,_Brasil-informational?style=flat">
 </p>
 
