@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Vinicius Ramos Elias França</h1>
+<p align="center">Creative Developer & Designer — construindo produtos web para negócios locais</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/vrfootballdesign" target="_blank"><img src="https://img.shields.io/badge/Instagram-VR_Football_Design-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Base-Distrito_Federal,_Brasil-informational?style=flat">
+</p>
+
+---
+
+### Sobre
+
+Desenvolvo sites, e-commerces e painéis de gestão para pequenos negócios (barbearias, confeitarias, prestadores de serviço) que ainda não têm presença digital — do design ao deploy. Também dirijo a **VR Football Design**, estúdio de conteúdo visual esportivo.
+
+### Stack
+
+`React` `Vite` `TypeScript` `Tailwind` `Supabase` `Vercel`
+
+### Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **[B_donuts](https://github.com/ViniciusRamos30/B_donuts)** | Redesign de e-commerce para confeitaria artesanal real, com checkout via WhatsApp | JavaScript |
+| **[Prompts_maneger](https://github.com/ViniciusRamos30/Prompts_maneger)** | Ferramenta para organizar, salvar e categorizar prompts de IA | JavaScript |
+| **[Olimpíada de Inteligência Artificial Aplicada (OIAA)](https://github.com/ViniciusRamos30/Olimp-ada-De-Inteligência-Artificial-Aplicada)** | Projeto da Olimpíada de Inteligência Artificial Aplicada | Python |
+
+### Contato
+
+📧 viniciusramoselias5@gmail.com
